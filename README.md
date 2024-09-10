@@ -10,3 +10,30 @@ Alguns exemplos de controle de versão são:
 Concurrent Versions System (CVS), Subversion (SVN), Perforce Helix Core
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+	Na programação estruturada, ou seja, estilo padrão, os seus algoritmos ou seus códigos criam uma rotina feita por subrotinas que são colocadas em ordem e quando são chamadas, executando, no final, um programa. O acesso ás variáveis, também, não possuem muitas exigências na programação estruturada. Para a modelagem de sistemas, com a programação estruturada utilizava-se de procedimentos, deixando o desenvolvimento díficil e confuso. Pórem, com a a programação orientada a objetos, utiliza-se objetos que representam elementos que existem no mundo real e seus comportamentos. Numa lógica de banco de dados, os objetos tratados como entidades, seus dados como atributos e seu comportamentos/suas ações como metódos. Isso é uma maneira eficiente e mais favorável para esses sistemas, contendo recursos, sendo estes:
+
+# Abtração
+Apresenta apenas as características do objeto.
+EX:
+
+Identidade : "Lâmpada."
+
+Atributos: Duração, marca, estado de utilização...
+
+Método: Acender.
+# Encapsulamento
+Os detalhes ou propriedades do objetos são escondidos, ou seja, não sabemos como funciona o processo para aquela ação acontecer, mas ela funciona.
+
+EX: Ao ligar o celular no botão, não sabemos como funciona internamente, mas sabemos que ao apertamos o celular liga.
+# Herança
+Quando um classe herda características de outra classe.
+
+EX: Um filho herda características do pai ou da mãe.
+# Polimorfismo
+Quando duas classe tem o mesmo método mas são implementados de formas diferentes.
+
+EX: Um carro e um avião transportam pessoas, mas de formas diferentes.
+
+# Vantagens
+Unificação de dados e processos, Consistência entre análise e desenvolvimento, Reutilização do código já implementado, Multidesenvolvimento, Facilidade de manutenção.
